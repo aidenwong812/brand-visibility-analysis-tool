@@ -18,7 +18,7 @@ First, clone this repository to your local machine.
 
 ```bash
 git clone https://github.com/aidenwong812/brand-visibility-analysis-tool.git
-cd brand-name-analyzer
+cd brand-visibility-analysis-tool
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -83,7 +83,3 @@ Feel free to customize the code and expand its capabilities as needed. For any q
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Notes
-- Replace `https://github.com/yourusername/brand-name-analyzer.git` with your actual GitHub repository URL if applicable.
-- Ensure you have a `requirements.txt` file with all necessary packages such as `openai` and `pydantic`. If not available, you can generate it with `pip freeze > requirements.txt`.
