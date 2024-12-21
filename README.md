@@ -81,4 +81,3 @@ Feel free to customize the code and expand its capabilities as needed. For any q
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
