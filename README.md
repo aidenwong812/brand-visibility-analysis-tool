@@ -1,6 +1,5 @@
 Here's a `README.md` file that guides you through setting up and running the provided Python code in a virtual environment:
 
-```markdown
 # Brand Visibility Analysis Tool
 
 This project is designed to analyze brand names related to specific product types using OpenAI's API. The script generates prompts, extracts brand names, recommends the best brand based on context, and calculates visibility scores.
